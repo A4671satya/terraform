@@ -114,3 +114,4 @@ terraform plan
 
 Step 4 — Apply (Create EC2 instance)
 terraform apply
+<img width="1920" height="1080" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/e54e445c-6c20-4182-b9aa-c0fd3c005612" />
