@@ -1,4 +1,4 @@
-
+Using Terraform create an EC2 instance
 
 This project demonstrates how to create, view, and destroy an AWS EC2 instance using Terraform.
 It includes:
