@@ -1,0 +1,4 @@
+ami_id        = "ami-0b8d527345fdace59"
+instance_name = "terraform-ec2-ubuntu"
+region        = "ap-south-1"
+instance_type = "t2.micro"

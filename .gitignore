@@ -1,0 +1,7 @@
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+awscliv2.zip
+ec2-terraform.json
+*.tfvars
+
